@@ -7,4 +7,4 @@ services:
 before_install:
   - docker build -t helderklemp/python_rest_app .
 script:
-  - pythons --version
+  - python --version
