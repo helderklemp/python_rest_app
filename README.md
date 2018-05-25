@@ -1,4 +1,7 @@
 ## Simple Pyrhon api docker project
+
+[![Build Status](https://travis-ci.org/helderklemp/python_rest_app.svg?branch=master)](https://travis-ci.org/helderklemp/python_rest_app)
+
 To run:
 ```python
 python3 run.py
